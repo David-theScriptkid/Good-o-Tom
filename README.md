@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Good-o-Tom
-- 👀 I’m interested in Python Programming and Ethical Hacking(Just a newbie)
-- 🌱 I’m currently learning things in Junior High School(Surprising,Huh?)
+- 👀 I’m interested in Python Programming and Ethical Hacking(Just a Newbie)
 - 📫 How to reach me:mrscript@protonmail.com,qwertyuiop20022020@outlook.com,910616439@qq.com(I'm Chinese)
 
 <!---
