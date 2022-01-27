@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Good-o-Tom,A teen computer nerd
+- 👋 Hi, I’m David Tang,A teen computer nerd
 - 👀 I’m interested in Python Programming and Ethical Hacking(Just a Newbie)
 - I'm planning to learn Rust
 - Currently Using OSes: Windows10,Arch Linux WSL,Kali Linux WSL
